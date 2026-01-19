@@ -1,16 +1,35 @@
-# React + Vite
+# CRUD Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple CRUD (Create, Read, Update, Delete) web application built using HTML, CSS, and JavaScript.
 
-Currently, two official plugins are available:
+This project allows users to add, edit, update, and delete records with a clean and responsive user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Create new records
+- Read and display records dynamically
+- Update existing records
+- Delete records
+- Responsive UI
 
-## React Compiler
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Demo
+https://idyllic-yeot-599563.netlify.app/
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Home Page](/Screenshots/home.png)
+![Add Item](/Screenshots/add-item.png)
+
+## 📦 How to Run Locally
+1. Clone the repository  
+   `git clone https://github.com/Sai222348/CRUD`
+2. Open `index.html` in your browser
+
+## 💡 What I Learned
+- Implementing CRUD operations using JavaScript
+- DOM manipulation
+- Managing application state
