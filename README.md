@@ -21,8 +21,8 @@ https://idyllic-yeot-599563.netlify.app/
 
 ## 📸 Screenshots
 
-![Home Page](home.png)
-![Add Item](add-item.png)
+![Home Page](Screenshots/home.png)
+![Add Item](Screenshots/add-item.png)
 
 ## 📦 How to Run Locally
 1. Clone the repository  
